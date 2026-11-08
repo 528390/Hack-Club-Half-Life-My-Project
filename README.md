@@ -59,7 +59,7 @@ Orthographic and Exploded Drawings:
 <img width="1002" height="777" alt="orthographic B" src="https://github.com/user-attachments/assets/59665350-394b-4a5f-b465-55ab33fec2d2" />
 <img width="847" height="657" alt="orthographic C" src="https://github.com/user-attachments/assets/e0ac000a-0357-4455-81ae-c73054992142" />
 <img width="1005" height="777" alt="exploded view" src="https://github.com/user-attachments/assets/a889edff-d9eb-45dd-9635-e492e420e614" />
-<img width="1007" height="776" alt="track drawing" src="https://github.com/user-attachments/assets/df2a61e4-2160-4263-a80d-986dcc70ba1c" />
+<img width="1002" height="777" alt="track drawing" src="https://github.com/user-attachments/assets/9226c5f0-0d14-413a-ab47-c56a66f330c2" />
 
 Onshape Link:
 https://cad.onshape.com/documents/1b27ad6dc99c5f10a14c848e/w/14b108e2ec1b93a0199ccc0f/e/25b03db6456dd81120ff670c?renderMode=0&uiState=6af013a9cdc5d816c5d93ed8
